@@ -31,7 +31,7 @@ npm install
 
 3. Create a `.env` file at the root of the project :
 ```
-PORT=3000
+PORT=8080
 ```
 
 4. Start the server :
